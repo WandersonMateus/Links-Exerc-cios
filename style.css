@@ -1,6 +1,13 @@
-body {
-    background: #939393;
+
+.conteiner {
+    display: flex;
+    justify-content: center;
 }
+
 .box, .cont {
     border: 2px solid #000;
+}
+
+.cont {
+    margin: 20px;
 }
